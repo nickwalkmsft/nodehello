@@ -5,7 +5,8 @@
   "main": "server.js",
   "dependencies": {
     "express": "^4.13.3",
-    "request": "*"
+    "request": "*",
+    "lodash": "*"
   },
   "engines": {
     "node": "6.2.2"
