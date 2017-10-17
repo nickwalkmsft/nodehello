@@ -4,7 +4,8 @@
   "description": "A sample Node.js app using Express 4",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.13.3"
+    "express": "^4.13.3",
+    "request": "*"
   },
   "engines": {
     "node": "6.2.2"
